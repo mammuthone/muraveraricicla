@@ -1,0 +1,166 @@
+{
+  "@@locale": "de",
+  "appSubtitle": "Mülltrennung",
+  "navToday": "Heute",
+  "navCalendar": "Kalender",
+  "navEcocentri": "Wertstoffhöfe",
+  "navGuide": "Ratgeber",
+  "todayLabel": "HEUTE",
+  "noCollection": "Keine Abholung",
+  "nextCollections": "Nächste Abholungen",
+  "reminderSection": "Erinnerung",
+  "exposureRule": "Stellen Sie den Abfall bis 06:00 Uhr morgens hinaus, oder am Vorabend nach 22:00 Uhr.",
+  "exposureRuleShort": "Bis 06:00 Uhr morgens hinausstellen, oder am Vorabend nach 22:00 Uhr.",
+  "unofficialApp": "Inoffizielle App",
+  "unofficialAppNote": "Nicht mit der Gemeinde Muravera oder mit COSIR verbunden. Die Daten stammen aus dem gedruckten Kalender: im Zweifelsfall gilt der offizielle Kalender.",
+  "legend": "Legende",
+  "noCollectionPlanned": "Keine Abholung vorgesehen.",
+  "weekdayInitials": "M,D,M,D,F,S,S",
+  "wasteUmido": "Biomüll",
+  "wasteUmidoSub": "Organische Abfälle",
+  "wasteUmidoWhere": "Eigene Tonne, im kompostierbaren Beutel",
+  "wasteUmidoWhat": "Obst, Gemüse, Eier, Fisch und Fischreste, Krustentiere, Muschel- und Venusmuschelschalen, Fleisch und kleine Knochen, Brot, Nudeln, Reis, Speisereste, Küchenabfälle und verdorbene Lebensmittel, Kaffeesatz, Tee- und Kamillenbeutel, Papierservietten und Taschentücher mit Speiseresten, Kot und Streu von Kleintieren (nur wenn kompostierbar: Ton, Sägemehl, Holzspäne, Natursand). Kleine Mengen Pflanzenabfälle und Schnittblumen, erkaltete Kaminasche, kompostierbare Teller, Becher und Verpackungen.",
+  "wasteSecco": "Restmüll",
+  "wasteSeccoSub": "Nicht verwertbar",
+  "wasteSeccoWhere": "Eigene Tonne, im halbtransparenten Beutel",
+  "wasteSeccoWhat": "Verpackungen mit Speiseresten (z. B. von Metzgereien, Fischgeschäften, Imbissen), Gummi, Musik- und Videokassetten, CDs und DVDs, Plastikbesteck, Kugelschreiber, kleine Gegenstände aus Kunststoff und Bakelit, Haar- und Körperpflegezubehör (Zahnbürsten, Haarbürsten und Kämme, Klammern, Spangen), Kohlepapier, beschichtetes Papier, Nylonstrümpfe, Jutesäcke, nicht mehr verwendbare Lappen, Verbandmull, Pflaster und Spritzen, Nadeln, Windeln, Krankenunterlagen, Binden, gebrauchtes Toiletten- und Küchenpapier, Kosmetika, Federn aus Synthetik. Teller, Tassen und Kaffeetassen aus Keramik, Scherben allgemein, zerbrochene Spiegel. Staubsauger- und Reinigungsstaub, kleine lackierte Holzgegenstände, Zigarettenstummel sowie alle Gegenstände aus mehreren Materialien (außer Tetra Pak), die sich nicht trennen lassen.",
+  "wastePlastica": "Kunststoff",
+  "wastePlasticaSub": "Kunststoffverpackungen",
+  "wastePlasticaWhere": "Eigene Tonne, im halbtransparenten Beutel",
+  "wastePlasticaWhat": "Wasserflaschen aus Kunststoff, Saft- und Milchpackungen, Joghurtbecher, Frischkäse- und Dessertbecher, Tierfutterbehälter, Wasch- und Körperpflegeflaschen. Beutel, Tüten und Lebensmittelverpackungen (Gebäck, Chips, Tiefkühlkost, Nudeln, Reis, Fleisch und Fisch), Zellophan. Eierkartons, Styroporschalen und -verpackungen, Obst- und Gemüsenetze. Obst- und Gemüsesteigen (1 Stück pro Abholtag und Haushalt). Saubere Kanister und Tonnen, Teller und Becher aus Kunststoff, Kleiderbügel.",
+  "wasteCarta": "Papier",
+  "wasteCartaSub": "Papier und Karton",
+  "wasteCartaWhere": "Eigene Tonne, in Kartons oder Papiertüten",
+  "wasteCartaWhat": "Zeitungen, Zeitschriften, Werbeprospekte, Kartons, Lebensmittelschachteln (z. B. Reis, Nudeln, Zucker), Pizzakartons, gebrauchtes Kopierpapier, Bücher und Hefte, Tetra-Pak-Behälter (z. B. Milch, Fruchtsaft, passierte Tomaten).",
+  "wasteVetro": "Glas und Dosen",
+  "wasteVetroSub": "Glas und Aluminium",
+  "wasteVetroWhere": "Eigene Tonne, ohne Beutel (Glas und Aluminium zusammen)",
+  "wasteVetroWhat": "Flaschen, Korbflaschen, Ballons, Vasen, Gläser und Einmachgläser. Getränkedosen, Lebensmittelschalen, Alufolie (z. B. Joghurtdeckel), Konservendosen (Thunfisch, Fleisch, Fisch, Hülsenfrüchte, geschälte Tomaten), Schalen (für Süßspeisen, Tiefkühlkost und andere Lebensmittel), Tuben (Tomatenmark, Mayonnaise, Sardellenpaste), Kosmetiktuben, Verschlüsse und Kapseln aus Aluminium, Sprühdosen von Sahne, Deodorant, Haarspray, Rasierschaum.",
+  "sheetWhere": "Wohin",
+  "sheetWhat": "Was hineingehört",
+  "guideTitle": "Richtig trennen",
+  "howToDeliver": "So stellen Sie den Abfall bereit",
+  "howToDeliver1": "Stellen Sie den Abfall an den im Kalender angegebenen Tagen bis 06:00 Uhr morgens hinaus, oder am Vorabend nach 22:00 Uhr.",
+  "howToDeliver2": "Geben Sie den Biomüll in die braune Außentonne, im dafür vorgesehenen kompostierbaren Beutel.",
+  "howToDeliver3": "Geben Sie Papier in die Tonne, in Kartons oder Papiersäcken: keine Plastiktüten verwenden.",
+  "howToDeliver4": "Geben Sie Glas und Aluminium gemeinsam und ohne Beutel in die grüne Tonne.",
+  "whyNotCollected": "Warum wurde mein Abfall nicht abgeholt?",
+  "whyNotCollected1": "Im Beutel oder in der Tonne befanden sich Abfälle, die dort nicht hineingehören.",
+  "whyNotCollected2": "Der Abfall wurde nicht korrekt getrennt oder bereitgestellt, entgegen den Vorgaben im Kalender.",
+  "whyNotCollected3": "Der Abfall wurde nicht im vorgesehenen Zeitfenster bereitgestellt.",
+  "bookableServices": "Services auf Anfrage",
+  "bookableServicesIntro": "Erreichbar über die kostenlose Rufnummer oder den Festnetzanschluss, Montag bis Samstag von 09:00 bis 14:00 Uhr.",
+  "bookableService1": "Abholung von Sonderabfällen aus Haushalten (Batterien, abgelaufene Medikamente, Sprühdosen und mit T und/oder F gekennzeichnete Behälter) — einmal im Monat",
+  "bookableService2": "Abholung von Sperrmüll — einmal pro Woche",
+  "bookableService3": "Abholung von Windeln und Hygienetextilien (zusätzlich zum Restmüll) — einmal pro Woche",
+  "bookableService4": "Abholung von Toner, Patronen und Druckerbändern — einmal pro Woche von Juni bis September, alle zwei Wochen von Januar bis Mai und von Oktober bis Dezember",
+  "bookableService5": "Abholung von Grünschnitt — einmal pro Woche",
+  "bookableService6": "Abholung von Speiseöl — einmal pro Woche",
+  "bookableService7": "Zusätzliche Abholung von Biomüll — einmal pro Woche von Juni bis September",
+  "bulky": "Sperrmüll",
+  "bulkyText": "Sie können die Sperrmüllabholung per E-Mail an ingombranti@cosir.org oder über ingombranti.cosir.org buchen. Online-Buchungen werden erst nach Kontaktaufnahme durch einen Mitarbeiter bestätigt. Es können maximal 5 Sperrmüllstücke auf einmal abgegeben werden.",
+  "contacts": "Kontakt",
+  "contactGreenNumber": "Kostenlose Rufnummer (vom Festnetz)",
+  "contactLandline": "Festnetz (vom Festnetz und Mobiltelefon)",
+  "contactAutospurgo": "Kanalreinigung (kostenpflichtig)",
+  "contactEmergency": "Notdienst",
+  "contactEmail": "E-Mail",
+  "contactBulkyEmail": "Sperrmüll",
+  "contactWebsite": "Website",
+  "showBoth": "Beide anzeigen",
+  "directions": "Route",
+  "whatYouCanBring": "Was Sie abgeben können",
+  "tariNote": "Die Wertstoffhöfe dürfen ausschließlich von Einwohnern der Gemeinde Muravera genutzt werden, die ordnungsgemäß zur Abfallsteuer TA.RI. gemeldet sind.",
+  "ecoItem1": "Grünschnitt und Baumschnitt (Pflanzenabfälle aus Gärten und Beeten, unbehandeltes Holz und Sägemehl, Laub)",
+  "ecoItem2": "Speiseöl (gebrauchtes Frittieröl)",
+  "ecoItem3": "Toner und Druckerbänder",
+  "ecoItem4": "Autobatterien",
+  "ecoItem5": "Gebrauchte Kleidung (Kleidung in gutem Zustand, Decken, Vorhänge, Bettwäsche, Handtücher)",
+  "ecoItem6": "Bauschutt (Putz, Fliesen, Sanitärkeramik, nur aus Haushalten und nicht gefährlich)",
+  "ecoItem7": "Sperrmüll",
+  "ecoMuraveraName": "Wertstoffhof Muravera",
+  "ecoMuraveraAddress": "Via dei Platani, Muravera",
+  "ecoCostaReiName": "Wertstoffhof Costa Rei",
+  "ecoCostaReiAddress": "Piscina Rei, bei der alten Kläranlage",
+  "periodOctApr": "Oktober – April",
+  "periodMaySep": "Mai – September",
+  "periodFerragosto": "Woche um Ferragosto (Mitte August)",
+  "periodSantoStefano": "Weihnachtswoche",
+  "periodPasquetta": "Osterwoche",
+  "schedMonSat": "{time} Montag bis Samstag",
+  "@schedMonSat": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedSunday": "{time} sonntags",
+  "@schedSunday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSun": "{time} Montag bis Sonntag",
+  "@schedMonSun": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSunNoThu": "{time} Montag bis Sonntag, donnerstags geschlossen",
+  "@schedMonSunNoThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedTueThu": "{time} dienstags und donnerstags",
+  "@schedTueThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "settings": "Einstellungen",
+  "remindEveningBefore": "Am Vorabend erinnern",
+  "remindSubtitle": "Eine Benachrichtigung für jeden Abholtag",
+  "reminderTime": "Uhrzeit",
+  "reminderTimeHelp": "Uhrzeit der Erinnerung",
+  "reminderNote": "Die Erinnerungen werden bei jedem Start der App neu geplant. Bleibt die App längere Zeit geschlossen, erhalten Sie möglicherweise nur die ersten Benachrichtigungen.",
+  "permissionDenied": "Berechtigung verweigert. Aktivieren Sie die Benachrichtigungen für diese App in den Systemeinstellungen.",
+  "languageSection": "Sprache",
+  "languageSystem": "Gerätesprache",
+  "dataSection": "Daten",
+  "dataSource": "COSIR-Kalender „Comune di Muravera — Costa Rei, Haushalte“, Juni 2026 – Mai 2027.",
+  "notifChannelName": "Abholerinnerung",
+  "notifChannelDesc": "Benachrichtigung am Vorabend jedes Abholtags",
+  "notifTitle": "Morgen ist Abholung",
+  "chooseZoneTitle": "Wo befinden Sie sich?",
+  "chooseZoneSubtitle": "Damit wir Ihnen den richtigen Kalender zeigen. Sie können das jederzeit in den Einstellungen ändern.",
+  "chooseUserType": "Art des Anschlusses",
+  "zoneSection": "Zone",
+  "changeZone": "Zone wechseln",
+  "confirm": "Bestätigen",
+  "zoneA": "Zone A",
+  "zoneADesc": "Ortskern von Muravera, Bereich A",
+  "zoneB": "Zone B",
+  "zoneBDesc": "Ortskern von Muravera, Bereich B",
+  "zoneCostaRei": "Costa Rei",
+  "zoneCostaReiDesc": "Costa Rei und Piscina Rei",
+  "zoneRurale": "Ländliches Gebiet",
+  "zoneRuraleDesc": "Streusiedlung und Umland",
+  "userDomestic": "Haushalte",
+  "userNonDomestic": "Gewerbe",
+  "sameCalendarBothTypes": "In dieser Zone gilt derselbe Kalender für Haushalte und Gewerbe.",
+  "rateApp": "App bewerten",
+  "rateAppSub": "Eine Bewertung im Store hilft anderen, sie zu finden",
+  "aboutSection": "Info",
+  "updateReady": "Update bereit",
+  "updateInstall": "Neu starten"
+}

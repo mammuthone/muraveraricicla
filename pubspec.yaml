@@ -1,0 +1,51 @@
+name: muraveraricicla
+description: Calendario raccolta differenziata del Comune di Muravera.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.3.1
+  shared_preferences: ^2.3.5
+
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.9.4
+
+  in_app_update: ^4.2.3
+  in_app_review: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  image_path: "assets/icon/icon.png"
+  android: "launcher_icon"
+  adaptive_icon_background: "#0E2A3A"
+  adaptive_icon_foreground: "assets/icon/icon_foreground.png"
+  ios: true
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/json/
+    - assets/images/
+    - assets/icon/

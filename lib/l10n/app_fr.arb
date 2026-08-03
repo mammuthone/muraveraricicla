@@ -1,0 +1,166 @@
+{
+  "@@locale": "fr",
+  "appSubtitle": "Collecte sélective",
+  "navToday": "Aujourd'hui",
+  "navCalendar": "Calendrier",
+  "navEcocentri": "Déchèteries",
+  "navGuide": "Guide",
+  "todayLabel": "AUJOURD'HUI",
+  "noCollection": "Pas de collecte",
+  "nextCollections": "Prochaines collectes",
+  "reminderSection": "Rappel",
+  "exposureRule": "Sortez vos déchets avant 06h00 le matin, ou la veille au soir après 22h00.",
+  "exposureRuleShort": "À sortir avant 06h00 le matin, ou la veille au soir après 22h00.",
+  "unofficialApp": "Application non officielle",
+  "unofficialAppNote": "Sans lien avec la commune de Muravera ni avec COSIR. Les données sont transcrites du calendrier papier : en cas de doute, c'est le calendrier officiel qui fait foi.",
+  "legend": "Légende",
+  "noCollectionPlanned": "Aucune collecte prévue.",
+  "weekdayInitials": "L,M,M,J,V,S,D",
+  "wasteUmido": "Déchets alimentaires",
+  "wasteUmidoSub": "Organique",
+  "wasteUmidoWhere": "Bac dédié, dans un sac compostable",
+  "wasteUmidoWhat": "Fruits, légumes, œufs, poisson et ses restes, crustacés, coquilles de moules et de palourdes, viande et petits os, pain, pâtes, riz, restes de repas, épluchures et aliments avariés, marc de café, sachets de thé et de camomille, serviettes et mouchoirs en papier souillés d'aliments, excréments et litières de petits animaux domestiques (uniquement s'ils sont compostables : argile, sciure, copeaux, sable naturel). Petites quantités de déchets végétaux et de fleurs coupées, cendres froides de cheminée, assiettes, verres et autres emballages compostables.",
+  "wasteSecco": "Déchets résiduels",
+  "wasteSeccoSub": "Ordures ménagères",
+  "wasteSeccoWhere": "Bac dédié, dans un sac semi-transparent",
+  "wasteSeccoWhat": "Emballages souillés d'aliments (boucheries, poissonneries, rôtisseries), caoutchouc, cassettes audio et vidéo, CD et DVD, couverts en plastique, stylos, petits objets en plastique et en bakélite, accessoires pour cheveux et hygiène personnelle (brosses à dents, brosses et peignes, pinces, barrettes), papier carbone, papier plastifié, bas en nylon, sacs en jute, chiffons non réutilisables, compresses, pansements et seringues, aiguilles, couches, alèses, serviettes hygiéniques, papier toilette et essuie-tout usagés, cosmétiques, plumes synthétiques. Assiettes, tasses et tasses à café en céramique, vaisselle cassée, miroirs brisés. Poussières d'aspirateur et de ménage, petits objets en bois peint, mégots de cigarettes, et tout objet composé de plusieurs matières (sauf Tetra Pak) impossibles à séparer.",
+  "wastePlastica": "Plastique",
+  "wastePlasticaSub": "Emballages en plastique",
+  "wastePlasticaWhere": "Bac dédié, dans un sac semi-transparent",
+  "wastePlasticaWhat": "Bouteilles d'eau en plastique, briques de jus et de lait, pots de yaourt, de fromage à tartiner et de dessert, boîtes pour animaux, bidons de lessive et flacons d'hygiène. Sachets, sacs et emballages alimentaires (viennoiseries, chips, surgelés, pâtes, riz, viande et poisson), cellophane. Boîtes à œufs, barquettes et emballages en polystyrène, filets à fruits et légumes. Cagettes à fruits et légumes (1 par jour de collecte et par foyer). Bidons et jerricans propres, assiettes et verres en plastique, cintres.",
+  "wasteCarta": "Papier",
+  "wasteCartaSub": "Papier et carton",
+  "wasteCartaWhere": "Bac dédié, dans des cartons ou des sacs en papier",
+  "wasteCartaWhat": "Journaux, magazines, prospectus, cartons, boîtes alimentaires (riz, pâtes, sucre), boîtes à pizza, papier de photocopie usagé, livres et cahiers, briques Tetra Pak (lait, jus de fruits, coulis de tomate).",
+  "wasteVetro": "Verre et canettes",
+  "wasteVetroSub": "Verre et aluminium",
+  "wasteVetroWhere": "Bac dédié, sans sac (verre et aluminium ensemble)",
+  "wasteVetroWhat": "Bouteilles, dames-jeannes, bonbonnes, pots, verres et bocaux. Canettes de boisson, barquettes alimentaires, papier aluminium (opercules de yaourt), boîtes de conserve (thon, viande, poisson, légumes secs, tomates pelées), barquettes (desserts, surgelés et autres aliments), tubes (concentré de tomate, mayonnaise, crème d'anchois), tubes de cosmétiques, bouchons et capsules en aluminium, aérosols de crème chantilly, déodorants, laques, mousse à raser.",
+  "sheetWhere": "Où",
+  "sheetWhat": "Ce qui va dedans",
+  "guideTitle": "Comment trier",
+  "howToDeliver": "Comment présenter les déchets",
+  "howToDeliver1": "Sortez les déchets les jours indiqués sur le calendrier, avant 06h00 le matin ou la veille au soir après 22h00.",
+  "howToDeliver2": "Déposez les déchets alimentaires dans le bac marron d'extérieur, dans le sac compostable prévu à cet effet.",
+  "howToDeliver3": "Déposez le papier dans le bac, en cartons ou en sacs papier : n'utilisez pas de sacs plastique.",
+  "howToDeliver4": "Déposez le verre et l'aluminium ensemble, sans sac, dans le bac vert.",
+  "whyNotCollected": "Pourquoi mes déchets n'ont-ils pas été collectés ?",
+  "whyNotCollected1": "Le sac ou le bac contenait des déchets non conformes.",
+  "whyNotCollected2": "Les déchets n'ont pas été triés ou présentés correctement, contrairement aux consignes du calendrier.",
+  "whyNotCollected3": "Les déchets n'ont pas été sortis dans le créneau horaire prévu.",
+  "bookableServices": "Services sur demande",
+  "bookableServicesIntro": "Accessibles en appelant le numéro vert ou le numéro fixe, du lundi au samedi de 09h00 à 14h00.",
+  "bookableService1": "Collecte à domicile des déchets dangereux ménagers (piles, médicaments périmés, aérosols et contenants étiquetés T et/ou F) — une fois par mois",
+  "bookableService2": "Collecte à domicile des encombrants — une fois par semaine",
+  "bookableService3": "Collecte à domicile des couches et textiles sanitaires (en plus des déchets résiduels) — une fois par semaine",
+  "bookableService4": "Collecte à domicile des toners, cartouches et rubans d'imprimante — une fois par semaine de juin à septembre, une fois tous les quinze jours de janvier à mai et d'octobre à décembre",
+  "bookableService5": "Collecte à domicile des déchets verts — une fois par semaine",
+  "bookableService6": "Collecte à domicile des huiles végétales — une fois par semaine",
+  "bookableService7": "Collecte supplémentaire à domicile des déchets alimentaires — une fois par semaine de juin à septembre",
+  "bulky": "Encombrants",
+  "bulkyText": "Vous pouvez réserver l'enlèvement des encombrants par courriel à ingombranti@cosir.org ou sur ingombranti.cosir.org. Les réservations en ligne ne sont validées qu'après le contact d'un opérateur. Maximum 5 encombrants par enlèvement.",
+  "contacts": "Contacts",
+  "contactGreenNumber": "Numéro vert (depuis un fixe)",
+  "contactLandline": "Ligne fixe (depuis un fixe ou un mobile)",
+  "contactAutospurgo": "Vidange (service payant)",
+  "contactEmergency": "Intervention d'urgence",
+  "contactEmail": "Courriel",
+  "contactBulkyEmail": "Encombrants",
+  "contactWebsite": "Site web",
+  "showBoth": "Voir les deux",
+  "directions": "Itinéraire",
+  "whatYouCanBring": "Ce que vous pouvez apporter",
+  "tariNote": "Seuls les habitants de la commune de Muravera inscrits au rôle de la taxe TA.RI. peuvent utiliser les déchèteries.",
+  "ecoItem1": "Tontes et tailles (déchets végétaux de jardins et potagers, bois et sciure non traités, feuilles)",
+  "ecoItem2": "Huiles végétales (huile de friture usagée)",
+  "ecoItem3": "Toners et rubans d'imprimante",
+  "ecoItem4": "Batteries de voiture",
+  "ecoItem5": "Vêtements usagés (vêtements en bon état, couvertures, rideaux, draps, serviettes)",
+  "ecoItem6": "Gravats (plâtras, carrelage, sanitaires, d'origine domestique uniquement et non dangereux)",
+  "ecoItem7": "Encombrants",
+  "ecoMuraveraName": "Déchèterie de Muravera",
+  "ecoMuraveraAddress": "Via dei Platani, Muravera",
+  "ecoCostaReiName": "Déchèterie de Costa Rei",
+  "ecoCostaReiAddress": "Piscina Rei, à l'ancienne station d'épuration",
+  "periodOctApr": "Octobre – avril",
+  "periodMaySep": "Mai – septembre",
+  "periodFerragosto": "Semaine du 15 août",
+  "periodSantoStefano": "Semaine de Noël",
+  "periodPasquetta": "Semaine de Pâques",
+  "schedMonSat": "{time} du lundi au samedi",
+  "@schedMonSat": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedSunday": "{time} le dimanche",
+  "@schedSunday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSun": "{time} du lundi au dimanche",
+  "@schedMonSun": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSunNoThu": "{time} du lundi au dimanche, fermé le jeudi",
+  "@schedMonSunNoThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedTueThu": "{time} mardi et jeudi",
+  "@schedTueThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "settings": "Paramètres",
+  "remindEveningBefore": "Me prévenir la veille au soir",
+  "remindSubtitle": "Une notification pour chaque jour de collecte",
+  "reminderTime": "Heure",
+  "reminderTimeHelp": "Heure du rappel",
+  "reminderNote": "Les rappels sont reprogrammés à chaque démarrage de l'application. Si l'application reste fermée longtemps, vous ne recevrez peut-être que les premiers.",
+  "permissionDenied": "Autorisation refusée. Activez les notifications pour cette application dans les réglages du système.",
+  "languageSection": "Langue",
+  "languageSystem": "Langue de l'appareil",
+  "dataSection": "Données",
+  "dataSource": "Calendrier COSIR « Comune di Muravera — Costa Rei, particuliers », juin 2026 – mai 2027.",
+  "notifChannelName": "Rappel de collecte",
+  "notifChannelDesc": "Notification la veille au soir de chaque jour de collecte sélective",
+  "notifTitle": "Collecte demain",
+  "chooseZoneTitle": "Où êtes-vous ?",
+  "chooseZoneSubtitle": "Pour vous montrer le bon calendrier. Vous pourrez le changer à tout moment dans les paramètres.",
+  "chooseUserType": "Type d'usager",
+  "zoneSection": "Zone",
+  "changeZone": "Changer de zone",
+  "confirm": "Confirmer",
+  "zoneA": "Zone A",
+  "zoneADesc": "Centre-ville de Muravera, secteur A",
+  "zoneB": "Zone B",
+  "zoneBDesc": "Centre-ville de Muravera, secteur B",
+  "zoneCostaRei": "Costa Rei",
+  "zoneCostaReiDesc": "Costa Rei et Piscina Rei",
+  "zoneRurale": "Zone rurale",
+  "zoneRuraleDesc": "Habitat dispersé et campagne",
+  "userDomestic": "particuliers",
+  "userNonDomestic": "professionnels",
+  "sameCalendarBothTypes": "Dans cette zone, le calendrier est identique pour les particuliers et les professionnels.",
+  "rateApp": "Noter l'application",
+  "rateAppSub": "Un avis sur le store aide les autres à la trouver",
+  "aboutSection": "À propos",
+  "updateReady": "Mise à jour prête",
+  "updateInstall": "Redémarrer"
+}

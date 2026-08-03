@@ -1,0 +1,169 @@
+{
+  "@@locale": "it",
+  "appSubtitle": "Raccolta differenziata",
+  "navToday": "Oggi",
+  "navCalendar": "Calendario",
+  "navEcocentri": "Ecocentri",
+  "navGuide": "Guida",
+  "todayLabel": "OGGI",
+  "noCollection": "Nessuna raccolta",
+  "nextCollections": "Prossime raccolte",
+  "reminderSection": "Promemoria",
+  "exposureRule": "Esponi i rifiuti entro le 06:00 del mattino, oppure la sera prima dopo le 22:00.",
+  "exposureRuleShort": "Esponi entro le 06:00 del mattino, oppure la sera prima dopo le 22:00.",
+  "unofficialApp": "App non ufficiale",
+  "unofficialAppNote": "Non affiliata al Comune di Muravera né a COSIR. I dati sono trascritti dal calendario cartaceo: in caso di dubbio fa fede quello ufficiale.",
+  "legend": "Legenda",
+  "noCollectionPlanned": "Nessuna raccolta prevista.",
+  "weekdayInitials": "L,M,M,G,V,S,D",
+  "@weekdayInitials": {
+    "description": "Iniziali dei sette giorni da lunedì a domenica, separate da virgola"
+  },
+  "wasteUmido": "Umido",
+  "wasteUmidoSub": "Organico",
+  "wasteUmidoWhere": "Apposito contenitore, nel sacchetto compostabile",
+  "wasteUmidoWhat": "Frutta, verdura, uova, pesce e i suoi residui, crostacei, gusci di cozze e vongole, carne e piccoli ossi, pane, pasta, riso, resti di pietanze, scarti di cucina e alimenti avariati, fondi di caffè, filtri di thè e camomilla, tovaglioli e fazzoletti di carta con residui di cibo, escrementi e lettiere di piccoli animali domestici (se compostabili, a base di argilla, segatura, trucioli, sabbia naturale). Piccole quantità di residui vegetali e fiori recisi, ceneri spente di caminetti, piatti, bicchieri e altri imballaggi compostabili.",
+  "wasteSecco": "Secco",
+  "wasteSeccoSub": "Indifferenziato",
+  "wasteSeccoWhere": "Apposito contenitore, nel sacchetto semi trasparente",
+  "wasteSeccoWhat": "Involucri con residui alimentari (es. di macellerie, pescherie, rosticcerie), gomma, cassette musicali, videocassette, cd e dvd, posate di plastica, penne, piccoli oggetti in plastica e bakelite, accessori per i capelli e per l'igiene personale (spazzolini per i denti, spazzole e pettini per i capelli, pinze, fermagli), carta carbone, carta plastificata, calze di nylon, sacchi di juta, stracci non più riutilizzabili, garze di medicazione, cerotti e siringhe, aghi, pannolini, traverse, assorbenti, carta igienica e carta assorbente usata, cosmetici, piume di materiali di origine sintetica. Piatti, tazze e tazzine in ceramica e cocci in genere, specchi rotti. Polveri dell'aspirapolvere e delle pulizie domestiche, piccoli oggetti in legno verniciato, mozziconi di sigarette, tutti gli oggetti formati da più di una materia (escluso il tetrapak) in cui risulti impossibile la separazione.",
+  "wastePlastica": "Plastica",
+  "wastePlasticaSub": "Imballaggi in plastica",
+  "wastePlasticaWhere": "Apposito contenitore, nel sacchetto semi trasparente",
+  "wastePlasticaWhat": "Bottiglie d'acqua in plastica, succhi, latte, contenitori di yogurt, creme di formaggio e dessert, cibo per animali, contenitori per detersivi e flaconi per l'igiene. Buste, sacchetti e contenitori per alimenti (brioches, patatine, surgelati, pasta, riso, carne e pesce), cellophane. Vaschette porta uova, vaschette e imballaggi in polistirolo, reti per frutta e verdura. Cassette per frutta e verdura (1 pezzo per ciascuna giornata di raccolta per utenza domestica). Taniche e bidoni puliti, piatti e bicchieri in plastica, grucce appendi abiti.",
+  "wasteCarta": "Carta",
+  "wasteCartaSub": "Carta e cartone",
+  "wasteCartaWhere": "Apposito contenitore, in scatole di cartone o sacchetti di carta",
+  "wasteCartaWhat": "Giornali, riviste, volantini pubblicitari, scatole di cartone, scatole per alimenti (es. riso, pasta, zucchero), cartoni per pizza, carta da fotocopie usata, libri e quaderni, contenitori in tetrapak (es. brick di latte, succhi di frutta, passata di pomodoro).",
+  "wasteVetro": "Vetro e lattine",
+  "wasteVetroSub": "Vetro e alluminio",
+  "wasteVetroWhere": "Apposito contenitore senza sacchetto (vetro e alluminio insieme)",
+  "wasteVetroWhat": "Bottiglie, damigiane, boccioni, vasi, bicchieri e barattoli di vetro. Lattine per bevande, vaschette food, stagnola (es. coperchi dello yogurt), scatole per alimenti (tonno, carne, pesce, legumi, pomodori pelati), vaschette (per dolci, surgelati e alimenti vari), tubetti (concentrato di pomodoro, maionese, pasta d'acciughe), tubetti cosmesi, tappi e capsule in alluminio, bombolette spray di panna, deodoranti, lacche, schiuma da barba.",
+  "sheetWhere": "Dove",
+  "sheetWhat": "Cosa conferire",
+  "guideTitle": "Come differenziare",
+  "howToDeliver": "Come conferire",
+  "howToDeliver1": "Conferire i rifiuti nei giorni indicati nel calendario, entro le ore 06:00 del mattino o in alternativa la sera prima dopo le ore 22:00.",
+  "howToDeliver2": "Conferire l'umido all'interno del contenitore marrone da esterno, nell'apposito sacchetto compostabile.",
+  "howToDeliver3": "Conferire la carta all'interno del contenitore, in scatole di cartone o sacchi di carta: non utilizzare sacchetti in plastica.",
+  "howToDeliver4": "Conferire vetro/alluminio congiuntamente, senza sacchetto, all'interno del mastello verde.",
+  "whyNotCollected": "Perché non hanno ritirato i miei rifiuti?",
+  "whyNotCollected1": "All'interno della busta/contenitore ci sono rifiuti non conformi.",
+  "whyNotCollected2": "I rifiuti non sono stati conferiti o esposti correttamente, violando le prescrizioni impartite attraverso il calendario.",
+  "whyNotCollected3": "Il rifiuto non è stato conferito nella fascia oraria prevista.",
+  "bookableServices": "Servizi su prenotazione",
+  "bookableServicesIntro": "Accessibili telefonando al numero verde o alla rete fissa, dal lunedì al sabato dalle 09:00 alle 14:00.",
+  "bookableService1": "Raccolta a domicilio di ex-RUP (pile, medicinali scaduti, bombolette e contenitori etichettati T e/o F) — una volta al mese",
+  "bookableService2": "Raccolta a domicilio di rifiuti ingombranti — una volta alla settimana",
+  "bookableService3": "Raccolta a domicilio di pannolini e tessili sanitari (aggiuntivo rispetto al secco) — una volta alla settimana",
+  "bookableService4": "Raccolta a domicilio di toner, cartucce e nastri per stampanti — una volta alla settimana da giugno a settembre, una volta ogni due settimane da gennaio a maggio e da ottobre a dicembre",
+  "bookableService5": "Raccolta a domicilio di sfalci — una volta alla settimana",
+  "bookableService6": "Raccolta a domicilio di oli vegetali — una volta alla settimana",
+  "bookableService7": "Raccolta a domicilio aggiuntiva del rifiuto umido-organico — una volta alla settimana da giugno a settembre",
+  "bulky": "Ingombranti",
+  "bulkyText": "Puoi prenotare il ritiro dei rifiuti ingombranti inviando una mail a ingombranti@cosir.org o collegandoti a ingombranti.cosir.org. Le prenotazioni online vengono convalidate solo dopo il contatto di un operatore. È possibile conferire massimo 5 ingombranti per volta.",
+  "contacts": "Contatti",
+  "contactGreenNumber": "Numero verde (da rete fissa)",
+  "contactLandline": "Rete fissa (da fisso e mobile)",
+  "contactAutospurgo": "Autospurgo (servizio a pagamento)",
+  "contactEmergency": "Pronto intervento",
+  "contactEmail": "Email",
+  "contactBulkyEmail": "Ingombranti",
+  "contactWebsite": "Sito",
+  "showBoth": "Vedi entrambi",
+  "directions": "Indicazioni stradali",
+  "whatYouCanBring": "Cosa puoi conferire",
+  "tariNote": "Possono usufruire degli ecocentri esclusivamente gli utenti del Comune di Muravera regolarmente iscritti al ruolo TA.RI.",
+  "ecoItem1": "Sfalci e potature (residui vegetali da pulizia giardini e orti, legna e segatura non trattata, foglie)",
+  "ecoItem2": "Oli vegetali (olio alimentare da frittura)",
+  "ecoItem3": "Toner e nastri per stampanti",
+  "ecoItem4": "Batterie di automobili",
+  "ecoItem5": "Indumenti usati (abbigliamento in buono stato, coperte, tendaggi, lenzuola, asciugamani)",
+  "ecoItem6": "Inerti (calcinacci, piastrelle, sanitari, di sola provenienza domestica e non pericolosi)",
+  "ecoItem7": "Ingombranti",
+  "ecoMuraveraName": "Ecocentro Muravera",
+  "ecoMuraveraAddress": "Via dei Platani, Muravera",
+  "ecoCostaReiName": "Ecocentro Costa Rei",
+  "ecoCostaReiAddress": "Loc. Piscina Rei, presso il vecchio depuratore",
+  "periodOctApr": "Ottobre – Aprile",
+  "periodMaySep": "Maggio – Settembre",
+  "periodFerragosto": "Settimana di Ferragosto",
+  "periodSantoStefano": "Settimana di Santo Stefano",
+  "periodPasquetta": "Settimana di Pasquetta",
+  "schedMonSat": "{time} dal lunedì al sabato",
+  "@schedMonSat": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedSunday": "{time} la domenica",
+  "@schedSunday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSun": "{time} dal lunedì alla domenica",
+  "@schedMonSun": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSunNoThu": "{time} dal lunedì alla domenica, chiusura il giovedì",
+  "@schedMonSunNoThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedTueThu": "{time} martedì e giovedì",
+  "@schedTueThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "settings": "Impostazioni",
+  "remindEveningBefore": "Avvisami la sera prima",
+  "remindSubtitle": "Una notifica per ogni giornata di raccolta",
+  "reminderTime": "Orario",
+  "reminderTimeHelp": "Orario del promemoria",
+  "reminderNote": "I promemoria vengono ripianificati a ogni avvio dell'app. Se l'app resta chiusa a lungo potresti ricevere solo i primi avvisi in programma.",
+  "permissionDenied": "Permesso negato. Attiva le notifiche per questa app nelle impostazioni di sistema.",
+  "languageSection": "Lingua",
+  "languageSystem": "Lingua del dispositivo",
+  "dataSection": "Dati",
+  "dataSource": "Calendario COSIR \"Comune di Muravera — Costa Rei utenze domestiche\", giugno 2026 – maggio 2027.",
+  "notifChannelName": "Promemoria raccolta",
+  "notifChannelDesc": "Avviso la sera prima di ogni giornata di raccolta differenziata",
+  "notifTitle": "Domani si conferisce",
+  "chooseZoneTitle": "Dove ti trovi?",
+  "chooseZoneSubtitle": "Serve per mostrarti il calendario giusto. Puoi cambiarlo quando vuoi dalle impostazioni.",
+  "chooseUserType": "Tipo di utenza",
+  "zoneSection": "Zona",
+  "changeZone": "Cambia zona",
+  "confirm": "Conferma",
+  "zoneA": "Zona A",
+  "zoneADesc": "Centro abitato di Muravera, settore A",
+  "zoneB": "Zona B",
+  "zoneBDesc": "Centro abitato di Muravera, settore B",
+  "zoneCostaRei": "Costa Rei",
+  "zoneCostaReiDesc": "Costa Rei e Piscina Rei",
+  "zoneRurale": "Comprensorio rurale",
+  "zoneRuraleDesc": "Case sparse e campagna",
+  "userDomestic": "utenze domestiche",
+  "userNonDomestic": "utenze non domestiche",
+  "sameCalendarBothTypes": "In questa zona il calendario è lo stesso per utenze domestiche e non domestiche.",
+  "rateApp": "Valuta l'app",
+  "rateAppSub": "Una recensione sullo store aiuta chi cerca l'app",
+  "aboutSection": "Info",
+  "updateReady": "Aggiornamento pronto",
+  "updateInstall": "Riavvia"
+}

@@ -1,0 +1,166 @@
+{
+  "@@locale": "en",
+  "appSubtitle": "Waste collection",
+  "navToday": "Today",
+  "navCalendar": "Calendar",
+  "navEcocentri": "Recycling centres",
+  "navGuide": "Guide",
+  "todayLabel": "TODAY",
+  "noCollection": "No collection",
+  "nextCollections": "Upcoming collections",
+  "reminderSection": "Reminder",
+  "exposureRule": "Put your waste out by 06:00 in the morning, or the evening before after 22:00.",
+  "exposureRuleShort": "Put it out by 06:00 in the morning, or the evening before after 22:00.",
+  "unofficialApp": "Unofficial app",
+  "unofficialAppNote": "Not affiliated with the Municipality of Muravera or COSIR. The data is transcribed from the printed calendar: if in doubt, the official one prevails.",
+  "legend": "Legend",
+  "noCollectionPlanned": "No collection scheduled.",
+  "weekdayInitials": "M,T,W,T,F,S,S",
+  "wasteUmido": "Food waste",
+  "wasteUmidoSub": "Organic",
+  "wasteUmidoWhere": "Dedicated bin, in a compostable bag",
+  "wasteUmidoWhat": "Fruit, vegetables, eggs, fish and fish scraps, shellfish, mussel and clam shells, meat and small bones, bread, pasta, rice, leftovers, kitchen scraps and spoiled food, coffee grounds, tea and camomile bags, paper napkins and tissues with food residue, droppings and litter from small pets (only if compostable: clay, sawdust, wood shavings, natural sand). Small amounts of plant waste and cut flowers, cold fireplace ash, compostable plates, cups and other compostable packaging.",
+  "wasteSecco": "Non-recyclable",
+  "wasteSeccoSub": "General waste",
+  "wasteSeccoWhere": "Dedicated bin, in a semi-transparent bag",
+  "wasteSeccoWhat": "Wrappers with food residue (e.g. from butchers, fishmongers, delis), rubber, audio and video cassettes, CDs and DVDs, plastic cutlery, pens, small plastic and bakelite objects, hair and personal hygiene accessories (toothbrushes, hairbrushes and combs, clips, hairpins), carbon paper, plastic-coated paper, nylon stockings, jute sacks, rags that can no longer be reused, gauze dressings, plasters and syringes, needles, nappies, incontinence pads, sanitary towels, used toilet paper and kitchen roll, cosmetics, synthetic feathers. Ceramic plates, mugs and cups, broken crockery and mirrors. Vacuum cleaner and household cleaning dust, small painted wooden objects, cigarette butts, and any item made of several materials (except Tetra Pak) that cannot be separated.",
+  "wastePlastica": "Plastic",
+  "wastePlasticaSub": "Plastic packaging",
+  "wastePlasticaWhere": "Dedicated bin, in a semi-transparent bag",
+  "wastePlasticaWhat": "Plastic water bottles, juice and milk containers, yoghurt pots, cheese spread and dessert pots, pet food containers, detergent bottles and toiletry bottles. Food bags, pouches and containers (pastries, crisps, frozen food, pasta, rice, meat and fish), cellophane. Egg trays, polystyrene trays and packaging, fruit and vegetable nets. Fruit and vegetable crates (1 per collection day per household). Clean jerrycans and drums, plastic plates and cups, clothes hangers.",
+  "wasteCarta": "Paper",
+  "wasteCartaSub": "Paper and cardboard",
+  "wasteCartaWhere": "Dedicated bin, in cardboard boxes or paper bags",
+  "wasteCartaWhat": "Newspapers, magazines, advertising leaflets, cardboard boxes, food boxes (e.g. rice, pasta, sugar), pizza boxes, used photocopy paper, books and notebooks, Tetra Pak cartons (e.g. milk, fruit juice, tomato passata).",
+  "wasteVetro": "Glass and cans",
+  "wasteVetroSub": "Glass and aluminium",
+  "wasteVetroWhere": "Dedicated bin, no bag (glass and aluminium together)",
+  "wasteVetroWhat": "Bottles, demijohns, water jugs, jars, glasses and glass containers. Drink cans, food trays, foil (e.g. yoghurt lids), food tins (tuna, meat, fish, pulses, peeled tomatoes), trays (for desserts, frozen and other food), tubes (tomato purée, mayonnaise, anchovy paste), cosmetics tubes, aluminium caps and capsules, aerosol cans of cream, deodorant, hairspray, shaving foam.",
+  "sheetWhere": "Where",
+  "sheetWhat": "What goes in",
+  "guideTitle": "How to sort",
+  "howToDeliver": "How to put waste out",
+  "howToDeliver1": "Put waste out on the days shown in the calendar, by 06:00 in the morning or, alternatively, the evening before after 22:00.",
+  "howToDeliver2": "Put food waste in the brown outdoor bin, inside the compostable bag.",
+  "howToDeliver3": "Put paper in the bin, in cardboard boxes or paper sacks: do not use plastic bags.",
+  "howToDeliver4": "Put glass and aluminium out together, without a bag, in the green bin.",
+  "whyNotCollected": "Why wasn't my waste collected?",
+  "whyNotCollected1": "The bag or bin contained items that do not belong there.",
+  "whyNotCollected2": "The waste was not sorted or put out correctly, against the rules set out in the calendar.",
+  "whyNotCollected3": "The waste was not put out within the required time window.",
+  "bookableServices": "Services on request",
+  "bookableServicesIntro": "Available by calling the freephone or landline number, Monday to Saturday from 09:00 to 14:00.",
+  "bookableService1": "Home collection of hazardous household waste (batteries, expired medicines, aerosols and containers labelled T and/or F) — once a month",
+  "bookableService2": "Home collection of bulky waste — once a week",
+  "bookableService3": "Home collection of nappies and sanitary textiles (in addition to general waste) — once a week",
+  "bookableService4": "Home collection of toner, cartridges and printer ribbons — once a week from June to September, once a fortnight from January to May and from October to December",
+  "bookableService5": "Home collection of garden clippings — once a week",
+  "bookableService6": "Home collection of vegetable oil — once a week",
+  "bookableService7": "Extra home collection of food waste — once a week from June to September",
+  "bulky": "Bulky waste",
+  "bulkyText": "You can book a bulky waste collection by emailing ingombranti@cosir.org or via ingombranti.cosir.org. Online bookings are only confirmed after an operator contacts you. Up to 5 bulky items can be collected at a time.",
+  "contacts": "Contacts",
+  "contactGreenNumber": "Freephone (from landlines)",
+  "contactLandline": "Landline (from landlines and mobiles)",
+  "contactAutospurgo": "Drain clearance (paid service)",
+  "contactEmergency": "Emergency call-out",
+  "contactEmail": "Email",
+  "contactBulkyEmail": "Bulky waste",
+  "contactWebsite": "Website",
+  "showBoth": "Show both",
+  "directions": "Directions",
+  "whatYouCanBring": "What you can bring",
+  "tariNote": "Only residents of the Municipality of Muravera who are registered for the TA.RI. waste tax may use the recycling centres.",
+  "ecoItem1": "Garden clippings and prunings (plant waste from gardens and vegetable plots, untreated wood and sawdust, leaves)",
+  "ecoItem2": "Vegetable oil (used cooking oil)",
+  "ecoItem3": "Toner and printer ribbons",
+  "ecoItem4": "Car batteries",
+  "ecoItem5": "Used clothing (clothes in good condition, blankets, curtains, sheets, towels)",
+  "ecoItem6": "Rubble (plaster, tiles, sanitary ware, from households only and non-hazardous)",
+  "ecoItem7": "Bulky waste",
+  "ecoMuraveraName": "Muravera recycling centre",
+  "ecoMuraveraAddress": "Via dei Platani, Muravera",
+  "ecoCostaReiName": "Costa Rei recycling centre",
+  "ecoCostaReiAddress": "Piscina Rei, at the old water treatment plant",
+  "periodOctApr": "October – April",
+  "periodMaySep": "May – September",
+  "periodFerragosto": "Ferragosto week (mid-August)",
+  "periodSantoStefano": "Christmas week",
+  "periodPasquetta": "Easter week",
+  "schedMonSat": "{time} Monday to Saturday",
+  "@schedMonSat": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedSunday": "{time} on Sunday",
+  "@schedSunday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSun": "{time} Monday to Sunday",
+  "@schedMonSun": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedMonSunNoThu": "{time} Monday to Sunday, closed on Thursday",
+  "@schedMonSunNoThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "schedTueThu": "{time} Tuesday and Thursday",
+  "@schedTueThu": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "settings": "Settings",
+  "remindEveningBefore": "Remind me the evening before",
+  "remindSubtitle": "One notification for each collection day",
+  "reminderTime": "Time",
+  "reminderTimeHelp": "Reminder time",
+  "reminderNote": "Reminders are rescheduled each time the app starts. If the app stays closed for a long time you may only receive the first few.",
+  "permissionDenied": "Permission denied. Enable notifications for this app in your system settings.",
+  "languageSection": "Language",
+  "languageSystem": "Device language",
+  "dataSection": "Data",
+  "dataSource": "COSIR calendar \"Comune di Muravera — Costa Rei, households\", June 2026 – May 2027.",
+  "notifChannelName": "Collection reminder",
+  "notifChannelDesc": "Notification the evening before each waste collection day",
+  "notifTitle": "Collection tomorrow",
+  "chooseZoneTitle": "Where are you?",
+  "chooseZoneSubtitle": "So we show you the right calendar. You can change it any time in settings.",
+  "chooseUserType": "Type of premises",
+  "zoneSection": "Zone",
+  "changeZone": "Change zone",
+  "confirm": "Confirm",
+  "zoneA": "Zone A",
+  "zoneADesc": "Muravera town centre, sector A",
+  "zoneB": "Zone B",
+  "zoneBDesc": "Muravera town centre, sector B",
+  "zoneCostaRei": "Costa Rei",
+  "zoneCostaReiDesc": "Costa Rei and Piscina Rei",
+  "zoneRurale": "Rural area",
+  "zoneRuraleDesc": "Scattered houses and countryside",
+  "userDomestic": "households",
+  "userNonDomestic": "businesses",
+  "sameCalendarBothTypes": "In this zone the calendar is the same for households and businesses.",
+  "rateApp": "Rate the app",
+  "rateAppSub": "A store review helps others find it",
+  "aboutSection": "About",
+  "updateReady": "Update ready",
+  "updateInstall": "Restart"
+}
