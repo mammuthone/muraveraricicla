@@ -14,6 +14,7 @@ import 'services/review_service.dart';
 import 'services/update_service.dart';
 import 'services/selezione_service.dart';
 import 'theme/app_colors.dart';
+import 'widgets/logo_animato.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -57,9 +58,11 @@ class MuraveraRiciclaApp extends StatelessWidget {
             surface: AppColors.surface,
           ),
         ),
-        home: SelezioneService.instance.scelta
-            ? const Shell()
-            : const SelezioneScreen(primaVolta: true),
+        home: AvvioScreen(
+          child: SelezioneService.instance.scelta
+              ? const Shell()
+              : const SelezioneScreen(primaVolta: true),
+        ),
       ),
     );
   }
