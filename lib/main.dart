@@ -20,7 +20,12 @@ Future<void> main() async {
   await initializeDateFormatting();
   await LocaleService.instance.load();
   await SelezioneService.instance.load();
-  await NotificationService.instance.init();
+  try {
+    await NotificationService.instance.init();
+  } catch (e) {
+    // I promemoria sono un extra: un errore qui non deve impedire l'avvio.
+    debugPrint('promemoria non inizializzati: $e');
+  }
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.light);
   runApp(const MuraveraRiciclaApp());
 }
