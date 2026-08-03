@@ -33,10 +33,11 @@ ufficiali senza esserlo.
 - [x] Icone di lancio generate per iOS e Android (`flutter_launcher_icons`)
 - [x] Versione `1.0.0+1` in `pubspec.yaml`
 - [ ] Rileggere i testi store in `store/` (5 lingue)
-- [ ] Privacy policy pubblicata a un URL raggiungibile — **obbligatoria su
-      entrambi gli store**, anche se l'app non raccoglie dati. Bozza in
-      `store/privacy.md`, va messa online e il link inserito nelle schede.
-- [ ] Schermata di splash coerente con l'icona (ora è quella bianca di default)
+- [~] Privacy policy: pagina pronta in `docs/privacy.html`, già sul repo. Manca
+      **abilitare GitHub Pages** (impostazioni del repo → Pages → branch `main`,
+      cartella `/docs`). L'URL sarà
+      `https://mammuthone.github.io/muraveraricicla/privacy.html`
+- [x] Schermata di avvio animata (`lib/widgets/logo_animato.dart`)
 - [ ] `ReviewService.appStoreId` in `lib/services/review_service.dart` è vuoto:
       va compilato con l'ID numerico che App Store Connect assegna all'app, o su
       iOS il pulsante "Valuta l'app" non apre nulla
@@ -126,7 +127,8 @@ tool/screenshots.sh <udid-iphone-17-pro-max> store/screenshots/ios it
 ### Grafica
 - [x] **Feature graphic 1024×500** e **icona 512×512** generate in
       `store/graphics/` (`tool/gen_store_graphics.py`)
-- [ ] Screenshot telefono: minimo 2, massimo 8, lato lungo ≥ 1080 px
+- [x] Screenshot telefono in `store/screenshots/android/it/` — 4 schermate a
+      1080×2400, catturate dall'emulatore in italiano, zona Costa Rei
 
 ### Dati per la scheda Play
 | Campo | Valore |
