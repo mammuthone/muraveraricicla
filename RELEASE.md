@@ -128,8 +128,19 @@ tool/screenshots.sh <udid-iphone-17-pro-max> store/screenshots/ios it
       `store/graphics/` (`tool/gen_store_graphics.py`)
 - [ ] Screenshot telefono: minimo 2, massimo 8, lato lungo ≥ 1080 px
 
+### Dati per la scheda Play
+| Campo | Valore |
+| --- | --- |
+| Nome app | Muravera Ricicla |
+| Nome pacchetto | `com.sardinialabs.muraveraricicla` |
+| Lingua predefinita | Italiano – it-IT |
+| Tipo | App, senza costi |
+| Categoria | Strumenti (o Stile di vita) |
+
 ### Caricamento
-- [ ] `flutter build appbundle --release`
+- [x] `flutter build appbundle --release` →
+      `build/app/outputs/bundle/release/app-release.aab` (43 MB; il download per
+      l'utente è circa 16 MB, gli split per ABI lo riducono)
 - [ ] L'aggiornamento in-app funziona **solo** su build installate dal Play
       Store: in debug e da sideload `checkForUpdate` fallisce sempre. Si prova
       dal canale di test interno, non in locale.
