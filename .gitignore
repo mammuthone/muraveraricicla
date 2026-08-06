@@ -54,3 +54,6 @@ tool/venv/
 
 # Foto del calendario cartaceo: sostituite dai PDF ufficiali in tool/pdf/
 calendario_originale/
+
+# Credenziali del service account Play — mai nel repo
+**/play-store-credentials.json

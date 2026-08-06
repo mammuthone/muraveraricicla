@@ -1,0 +1,60 @@
+default_platform(:android)
+
+AAB = "../build/app/outputs/bundle/release/app-release.aab"
+
+platform :android do
+  desc "Compila l'AAB di release"
+  lane :build do
+    Dir.chdir("..") { sh("flutter", "build", "appbundle", "--release") }
+    UI.success("AAB pronto: build/app/outputs/bundle/release/app-release.aab")
+  end
+
+  desc "Carica solo la scheda dello Store: testi, icona, grafica, screenshot"
+  lane :metadata do
+    upload_to_play_store(
+      skip_upload_aab: true,
+      skip_upload_apk: true,
+      skip_upload_changelogs: true,
+    )
+    UI.success("Scheda aggiornata.")
+  end
+
+  desc "Compila e carica sul canale di test interno"
+  lane :beta do
+    build
+    upload_to_play_store(
+      track: "internal",
+      aab: AAB,
+      skip_upload_metadata: true,
+      skip_upload_images: true,
+      skip_upload_screenshots: true,
+    )
+    UI.success("Caricata sul test interno.")
+  end
+
+  desc "Compila e carica in produzione"
+  lane :release do
+    build
+    upload_to_play_store(
+      track: "production",
+      aab: AAB,
+      skip_upload_metadata: true,
+      skip_upload_images: true,
+      skip_upload_screenshots: true,
+    )
+    UI.success("Caricata in produzione.")
+  end
+
+  desc "Promuove il test interno in produzione"
+  lane :promote do
+    upload_to_play_store(
+      track: "internal",
+      track_promote_to: "production",
+      skip_upload_aab: true,
+      skip_upload_metadata: true,
+      skip_upload_images: true,
+      skip_upload_screenshots: true,
+    )
+    UI.success("Promossa in produzione.")
+  end
+end
