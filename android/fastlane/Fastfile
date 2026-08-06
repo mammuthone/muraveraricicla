@@ -11,10 +11,14 @@ platform :android do
 
   desc "Carica solo la scheda dello Store: testi, icona, grafica, screenshot"
   lane :metadata do
+    # Va indicato un track dove esiste già una release: senza, supply cerca
+    # in produzione e fallisce se lì non c'è ancora nulla.
     upload_to_play_store(
+      track: "internal",
       skip_upload_aab: true,
       skip_upload_apk: true,
       skip_upload_changelogs: true,
+      version_codes_to_retain: [],
     )
     UI.success("Scheda aggiornata.")
   end
