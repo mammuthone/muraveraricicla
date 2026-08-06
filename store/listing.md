@@ -1,5 +1,10 @@
 # Testi per le schede degli store
 
+> La versione italiana è stata riscritta dopo un rilievo di Google sulla policy
+> dei servizi governativi: niente nomi di enti, niente linguaggio da servizio
+> pubblico ("conferire", "prenotazione"), posizionamento come promemoria
+> personale. Le altre lingue vanno allineate prima di pubblicarle.
+
 Nome pubblico ancora da decidere: qui sotto è indicato come `<NOME>`.
 
 Vincoli: App Store — nome 30 caratteri, sottotitolo 30, descrizione 4000.
@@ -10,30 +15,26 @@ Play Store — titolo 30, descrizione breve 80, descrizione lunga 4000.
 ## Italiano
 
 **Nome:** `<NOME>`
-**Sottotitolo / descrizione breve:** Il calendario della raccolta a Muravera
+**Sottotitolo / descrizione breve:** Promemoria personale per la raccolta differenziata a Muravera
 
 **Descrizione:**
 
-Sai sempre cosa esporre stasera.
+Un promemoria personale per non sbagliare più giorno.
 
-Scegli la tua zona — Zona A, Zona B, Costa Rei o comprensorio rurale — e l'app
-ti mostra le frazioni da conferire oggi e nei prossimi giorni, con il calendario
-completo da giugno 2026 a maggio 2027.
+Scegli la tua zona — Zona A, Zona B, Costa Rei o comprensorio rurale — e l'app ti ricorda quali contenitori esporre oggi e nei giorni successivi, con il calendario completo da giugno 2026 a maggio 2027.
 
-• Cosa si conferisce oggi, a colpo d'occhio
-• Le prossime raccolte in ordine
+• Cosa esporre oggi, a colpo d'occhio
+• I prossimi giorni in ordine
 • Calendario mensile navigabile
-• Promemoria la sera prima, all'orario che scegli tu
+• Un promemoria la sera prima, all'orario che scegli tu
 • Cosa va in ogni contenitore: umido, secco, plastica, carta, vetro e lattine
-• Gli ecocentri di Muravera e Costa Rei sulla mappa, con gli orari stagionali
-• Numeri utili e prenotazione degli ingombranti
+• I due centri di raccolta sulla mappa, con gli orari stagionali
+• Numeri utili a portata di mano
 • In italiano, inglese, francese, tedesco e spagnolo
 
 Nessun account, nessuna pubblicità, nessun dato raccolto.
 
-Applicazione non ufficiale, non affiliata al Comune di Muravera né a COSIR. I
-dati provengono dal calendario pubblico del gestore del servizio: in caso di
-dubbio fa fede quello ufficiale.
+App indipendente e non ufficiale, realizzata da un privato. Le informazioni sono trascritte dal calendario cartaceo distribuito alle utenze: in caso di dubbio fa fede il calendario ufficiale.
 
 ---
 
