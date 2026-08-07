@@ -83,8 +83,12 @@ Obbligatori per **6.9"** (1320×2868 o 1290×2796). Simulatore: **iPhone 17 Pro 
 tool/screenshots.sh <udid-iphone-17-pro-max> store/screenshots/ios it
 ```
 
-- [ ] it, en, fr, de, es — almeno 3 schermate ciascuna (Oggi, Calendario, Guida)
-- [ ] iPad 13" solo se mantieni il supporto iPad
+- [x] Italiano: 4 schermate 1320×2868 in `store/screenshots/ios/it/`
+- [ ] en, fr, de, es se vuoi schede localizzate (facoltativo)
+
+I simulatori iOS **non supportano la modalità release**: gli screenshot si
+catturano in debug. Il banner non compare perché `debugShowCheckedModeBanner`
+è già disattivato.
 
 ### Caricamento
 - [ ] `flutter build ipa --release`
