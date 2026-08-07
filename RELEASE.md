@@ -38,9 +38,7 @@ ufficiali senza esserlo.
       cartella `/docs`). L'URL sarà
       `https://mammuthone.github.io/muraveraricicla/privacy.html`
 - [x] Schermata di avvio animata (`lib/widgets/logo_animato.dart`)
-- [ ] `ReviewService.appStoreId` in `lib/services/review_service.dart` è vuoto:
-      va compilato con l'ID numerico che App Store Connect assegna all'app, o su
-      iOS il pulsante "Valuta l'app" non apre nulla
+- [x] `ReviewService.appStoreId` = `6799002753`
 
 ### Cosa dichiarare sulla privacy
 
@@ -62,21 +60,21 @@ L'app **non raccoglie né trasmette dati personali**. Da dichiarare comunque:
 
 ### Account e firma
 - [ ] Apple Developer Program attivo (99 €/anno)
-- [ ] App ID `com.sardinialabs.muraveraricicla` registrato
+- [x] App ID `com.sardinialabs.muraveraricicla` registrato
+- [x] App creata su App Store Connect — Apple ID `6799002753`
 - [ ] Certificato di distribuzione e provisioning profile
 - [ ] App creata su App Store Connect
 
 ### Progetto
-- [ ] Team di firma impostato in Xcode (`ios/Runner.xcodeproj`)
-- [ ] `IPHONEOS_DEPLOYMENT_TARGET` è **13.0**: alzare a 15.0 o 16.0, sotto i 14
-      alcune API di `flutter_local_notifications` non servono più e riduci la
-      superficie di test
-- [ ] `PrivacyInfo.xcprivacy` in `ios/Runner/`: Apple lo richiede. Va dichiarato
-      l'uso di `NSUserDefaults` (motivo `CA92.1`) per `shared_preferences`
+- [x] Team di firma `3JFT6Q8DM2`
+- [x] Deployment target 15.0, anche nel Podfile
+- [~] `PrivacyInfo.xcprivacy` creato in `ios/Runner/`. **Va ancora aggiunto al
+      target Runner da Xcode** (trascinalo nel gruppo e spunta il target),
+      altrimenti non finisce nel bundle
 - [ ] Descrizione d'uso delle notifiche non serve (le chiede il sistema), ma
       verifica che non restino chiavi inutili in `Info.plist`
-- [ ] Supporto iPad: se lo lasci attivo servono anche gli screenshot iPad 13".
-      Valuta di limitare a iPhone (`TARGETED_DEVICE_FAMILY = 1`)
+- [x] Solo iPhone (`TARGETED_DEVICE_FAMILY = 1`): niente screenshot iPad
+- [x] Launch image e sfondo dello storyboard al posto del placeholder Flutter
 
 ### Screenshot
 Obbligatori per **6.9"** (1320×2868 o 1290×2796). Simulatore: **iPhone 17 Pro Max**.

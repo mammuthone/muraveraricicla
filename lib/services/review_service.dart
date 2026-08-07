@@ -38,6 +38,6 @@ class ReviewService {
     appStoreId: appStoreId,
   );
 
-  /// Da compilare quando l'app è registrata su App Store Connect.
-  static const appStoreId = '';
+  /// Apple ID numerico assegnato da App Store Connect.
+  static const appStoreId = '6799002753';
 }
