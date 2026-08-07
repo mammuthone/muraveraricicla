@@ -1,0 +1,19 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "Compila l'IPA di release"
+  lane :build do
+    Dir.chdir("..") { sh("flutter", "build", "ipa", "--release") }
+    UI.success("IPA pronto in build/ios/ipa/")
+  end
+
+  desc "Compila e carica su TestFlight"
+  lane :beta do
+    build
+    upload_to_testflight(
+      ipa: "../build/ios/ipa/muraveraricicla.ipa",
+      skip_waiting_for_build_processing: true,
+    )
+    UI.success("Caricata su TestFlight.")
+  end
+end
