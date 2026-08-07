@@ -68,9 +68,7 @@ L'app **non raccoglie né trasmette dati personali**. Da dichiarare comunque:
 ### Progetto
 - [x] Team di firma `3JFT6Q8DM2`
 - [x] Deployment target 15.0, anche nel Podfile
-- [~] `PrivacyInfo.xcprivacy` creato in `ios/Runner/`. **Va ancora aggiunto al
-      target Runner da Xcode** (trascinalo nel gruppo e spunta il target),
-      altrimenti non finisce nel bundle
+- [x] `PrivacyInfo.xcprivacy` nel target Runner, verificato dentro Runner.app
 - [ ] Descrizione d'uso delle notifiche non serve (le chiede il sistema), ma
       verifica che non restino chiavi inutili in `Info.plist`
 - [x] Solo iPhone (`TARGETED_DEVICE_FAMILY = 1`): niente screenshot iPad
