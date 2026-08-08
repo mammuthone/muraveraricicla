@@ -35,14 +35,19 @@ platform :ios do
     UI.success("Caricata su TestFlight.")
   end
 
-  desc "Carica solo la scheda: testi e screenshot"
-  lane :metadata do
+  desc "Carica solo gli screenshot, senza toccare i testi"
+  lane :screenshots do
     deliver(
       api_key: asc_api_key,
       skip_binary_upload: true,
+      skip_metadata: true,
       skip_app_version_update: true,
+      overwrite_screenshots: true,
       force: true,
+      # precheck non sa leggere gli acquisti in-app con la API key, e l'app
+      # non ne ha: il controllo fallirebbe senza motivo dopo l'upload.
+      run_precheck_before_submit: false,
     )
-    UI.success("Scheda aggiornata.")
+    UI.success("Screenshot caricati.")
   end
 end

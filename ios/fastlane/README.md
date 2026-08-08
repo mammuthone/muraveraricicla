@@ -31,13 +31,13 @@ Compila l'IPA di release
 
 Compila e carica su TestFlight
 
-### ios metadata
+### ios screenshots
 
 ```sh
-[bundle exec] fastlane ios metadata
+[bundle exec] fastlane ios screenshots
 ```
 
-Carica solo la scheda: testi e screenshot
+Carica solo gli screenshot, senza toccare i testi
 
 ----
 
